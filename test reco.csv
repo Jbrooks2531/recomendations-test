@@ -1,0 +1,39 @@
+## RECSRecommendations Upload File,,,,,,
+## RECS''## RECS'' indicates a Recommendations pre-process header. Please do not remove these lines.,,,,,,
+## RECS,,,,,,
+## RECSUse this file to upload product display information to Recommendations. Each product has its own row. Each line must contain 19 values and if not all are filled a space should be left.,,,,,,
+## RECSThe last 100 columns (entity.custom1 - entity.custom100) are custom. The name 'customN' can be replaced with a custom name such as 'onSale' or 'brand'.,,,,,,
+## RECSIf the products already exist in Recommendations then changes uploaded here will override the data in Recommendations. Any new attributes entered here will be added to the product''s entry in Recommendations.,,,,,,
+## RECSentity.id,entity.name,entity.categoryId,entity.message,entity.thumbnailUrl,entity.value,entity.pageUrl
+page-f36857fd0f,Toyota Forklift Announces New Lithium-ion Battery Lineup,Energy Solutions,,https://toyotaforkliftstage.scene7.com/is/image/toyotamhstage/Toyota%20Material%20Handling_Logo_News,,https://stage.toyotaforklift.com/news/toyota-forklift-announces-new-lithium-ion-battery-lineup
+page-b74c0c3999,Toyota Material Handling Introduces New Energy Solutions Platform to Meet Evolving Customer Needs,Energy Solutions,,https://toyotaforkliftstage.scene7.com/is/image/toyotamhstage/TIES5,,https://stage.toyotaforklift.com/news/toyota-material-handling-introduces-new-energy-solutions-platform-to-meet-evolving-customer-needs
+page-50ab7f04a3,Which Forklift Energy Source is Best for Your Fleet Size?,Energy Solutions,,https://toyotaforkliftstage.scene7.com/is/image/toyotamhstage/8-Series-Order-Picker_Application_27-e1588711241179-1024x534-1,,https://stage.toyotaforklift.com/resource-library/blog/energy-solutions/which-energy-source-is-best-for-your-fleet-size
+page-5d8a5b426d,Lithium-Ion Forklift Battery Solution for Operational Efficiency,Energy Solutions,,https://toyotaforkliftstage.scene7.com/is/image/toyotamhstage/Toyota_Energy_Solutions_Application_15-1,,https://stage.toyotaforklift.com/resource-library/blog/energy-solutions/lithium-ion-forklift-battery-solution-for-operational-efficiency
+page-919b799759,Which Forklift Energy Source is Best for Your Operational Environment?,Energy Solutions,,https://toyotaforkliftstage.scene7.com/is/image/toyotamhstage/80V-Electric-Pneumatic-Forklift-II-1024x569-1,,https://stage.toyotaforklift.com/resource-library/blog/energy-solutions/which-forklift-energy-source-is-best-for-your-operational-environment
+page-5f8bddd04c,Which Forklift Energy Source is Right for Your Shift Cycle?,Energy Solutions,,https://toyotaforkliftstage.scene7.com/is/image/toyotamhstage/2015V055Advantages-of-Electric-Forklifts,,https://stage.toyotaforklift.com/resource-library/blog/energy-solutions/which-forklift-energy-source-is-right-for-your-shift-cycle
+page-215dd8bc6f,What to Expect When You're Transitioning from Lead Acid to Lithium-ion Forklift Batteries,Energy Solutions,,https://toyotaforkliftstage.scene7.com/is/image/toyotamhstage/Toyota_Energy_Solutions_Application_26,,https://stage.toyotaforklift.com/resource-library/blog/energy-solutions/what-to-expect-when-youre-transitioning-from-lead-acid-to-lithium-batteries
+page-b8f687822c,Industry Trends: the Rise of Lithium-Ion Battery Adoption,Energy Solutions,,https://toyotaforkliftstage.scene7.com/is/image/toyotamhstage/TIES1,,https://stage.toyotaforklift.com/resource-library/blog/energy-solutions/industry-trends-the-rise-of-lithium-ion-battery-adoption
+page-c2ea647e60,Advantages of Lithium Batteries for Electric Forklifts,Energy Solutions,,https://toyotaforkliftstage.scene7.com/is/image/toyotamhstage/TIES15-e1577992368939,,https://stage.toyotaforklift.com/resource-library/blog/energy-solutions/advantages-of-lithium-batteries-for-electric-forklifts
+page-d397141567,7 Reasons to Use Lithium-ion Batteries in Electric Forklifts,Energy Solutions,,https://toyotaforkliftstage.scene7.com/is/image/toyotamhstage/Toyota%20Energy%20Solutions_Application_17,,https://stage.toyotaforklift.com/resource-library/blog/energy-solutions/7-reasons-to-use-lithium-ion-batteries-in-electric-forklifts
+page-c1838cc65a,,,,,,
+page-99b2875346,,,,,,
+page-59781eba57,,,,,,
+page-7064c656fb,,,,,,
+page-9e2141f834,,,,,,
+page-5200ec44e4,,,,,,
+page-2ae173d8ab,,,,,,
+page-421662ee28,,,,,,
+page-ad8e93f314,,,,,,
+page-506286a265,,,,,,
+page-3807f964cc,,,,,,
+page-9bd53fc0de,,,,,,
+page-b2d4f72a3b,,,,,,
+page-7f20f6e019,,,,,,
+page-f5393c7c08,,,,,,
+page-e72ffda157,,,,,,
+page-379e199b2d,,,,,,
+page-12a392d060,,,,,,
+page-272937dd08,,,,,,
+page-0541152c5f,,,,,,
+page-67ad795c19,,,,,,
+page-0a5b04884a,,,,,,
